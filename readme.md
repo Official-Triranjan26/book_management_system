@@ -38,6 +38,10 @@ POST: create a new book✅
 GET: get a book by id✅
 PUT: update a book by id✅
 
+## /book/{name}
+
+GET: get a book by name✅
+
 ## /books/issued/by-user✅
 
 GET: get all the issued books✅
